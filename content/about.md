@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 date: 2026-01-17T16:30:00+01:00
-image: images/Ikigai-maxPlan%20de%20travail%201-100.jpg
+image: images/pexels-doubleseven-736355.jpg
 draft: false
 ---
 
@@ -25,7 +25,7 @@ Réseaux, communication, promotion, booking, contrat artistes, tournée, confide
 
 Ce domaine s'inscrit parfaitement dans mon **Ikigai** personnel :
 
-![Mon Ikigai](/images/Ikigai-maxPlan%20de%20travail%201-100.jpg)
+![Mon Ikigai](images/Ikigai-maxPlan%20de%20travail%201-100.jpg)
 
 - **Ce que j'aime** : La musique rock et la découverte de nouveaux artistes
 - **Ce en quoi je suis doué** : La communication, le réseautage, les outils technologiques et le graphisme
