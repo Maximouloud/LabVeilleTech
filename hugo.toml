@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://maximouloud.github.io/LabVeilleTech/'
 languageCode = 'fr-ch'
 title = "LabVeilleTech - Promotion d'Artistes Rock"
 theme = 'pehtheme-hugo-main'
