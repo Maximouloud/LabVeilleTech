@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visibilité on LabVeilleTech - Promotion d&#39;Artistes Rock</title>
+    <link>http://localhost:1313/tags/visibilit%C3%A9/</link>
+    <description>Recent content in Visibilité on LabVeilleTech - Promotion d&#39;Artistes Rock</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Sat, 17 Jan 2026 15:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/visibilit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groover : une plateforme pour connecter artistes et professionnels de l&#39;industrie musicale</title>
+      <link>http://localhost:1313/posts/2026/groover-plateforme-promotion-musicale/</link>
+      <pubDate>Sat, 17 Jan 2026 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2026/groover-plateforme-promotion-musicale/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;article &lt;em&gt;&amp;ldquo;Pourquoi Groover est vraiment la meilleure plateforme pour promouvoir votre musique&amp;rdquo;&lt;/em&gt;, publié fin 2024 sur le blog de Groover, présente une plateforme de promotion musicale pensée pour les artistes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-ch'
+title = "LabVeilleTech - Promotion d'Artistes Rock"
+theme = 'pehtheme-hugo-main'
+
+summaryLength = 20
+
+[params]
+  description = "Veille technologique sur la promotion d'artistes dans le milieu du rock - Outils, stratégies et tendances de l'industrie musicale indépendante."
+  mainSections = 'posts'
+
+[author]
+  name = 'Maximilien Maret'
+  bio = "Passionné de musique rock et de promotion d'artistes émergents en Romandie. Veille technologique et stratégies pour faire vivre la scène musicale locale."
+  avatar = '/images/default-placeholder.png'
+
+[pagination]
+  pagerSize = 6
+
+[menu]
+  [[menu.main]]
+    name = 'Accueil'
+    pageRef = '/'
+    weight = 10
+  [[menu.main]]
+    name = 'À propos'
+    pageRef = '/about'
+    weight = 15
+  [[menu.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 20
+

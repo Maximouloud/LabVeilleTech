@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booking on LabVeilleTech - Promotion d&#39;Artistes Rock</title>
+    <link>http://localhost:1313/tags/booking/</link>
+    <description>Recent content in Booking on LabVeilleTech - Promotion d&#39;Artistes Rock</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Wed, 15 Jan 2025 10:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/booking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;automatisation au service du booking d&#39;artistes : Gumloop AI révolutionne le travail des labels</title>
+      <link>http://localhost:1313/posts/2025/automatisation-booking-artistes-gumloop-ai/</link>
+      <pubDate>Wed, 15 Jan 2025 10:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/automatisation-booking-artistes-gumloop-ai/</guid>
+      <description>&lt;p&gt;La source de cet article est une vidéo publiée sur YouTube par la chaîne Underscore, une chaîne spécialisée dans la tech et les avancées numériques. La vidéo, publiée récemment, traite de l&amp;rsquo;accessibilité croissante des outils d&amp;rsquo;automatisation et présente en particulier Gumloop AI, une plateforme qui permet de créer des workflows automatisés sans nécessiter de compétences techniques avancées. L&amp;rsquo;objectif est de montrer comment ces outils transforment déjà la manière de travailler dans de nombreux domaines.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

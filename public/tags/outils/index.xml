@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outils on LabVeilleTech - Promotion d&#39;Artistes Rock</title>
+    <link>http://localhost:1313/tags/outils/</link>
+    <description>Recent content in Outils on LabVeilleTech - Promotion d&#39;Artistes Rock</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Sat, 17 Jan 2026 15:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/outils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les LLM comme outil de veille technologique : opportunités et limites pour la promotion musicale</title>
+      <link>http://localhost:1313/posts/2026/llm-veille-technologique-promotion-musicale/</link>
+      <pubDate>Sat, 17 Jan 2026 15:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2026/llm-veille-technologique-promotion-musicale/</guid>
+      <description>&lt;p&gt;Dans le cadre de ma veille technologique et professionnelle, j&amp;rsquo;ai choisi d&amp;rsquo;utiliser des LLM comme ChatGPT ou Euria pour m&amp;rsquo;informer. Ces outils s&amp;rsquo;inscrivent dans un contexte où la quantité d&amp;rsquo;informations disponibles est très importante.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

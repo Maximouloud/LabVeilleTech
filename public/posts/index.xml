@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LabVeilleTech - Promotion d&#39;Artistes Rock</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on LabVeilleTech - Promotion d&#39;Artistes Rock</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Sat, 17 Jan 2026 16:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon système d&#39;écoute pour rester informé : YouTube, réseaux sociaux et observation terrain</title>
+      <link>http://localhost:1313/posts/2026/systeme-ecoute-veille-musicale/</link>
+      <pubDate>Sat, 17 Jan 2026 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2026/systeme-ecoute-veille-musicale/</guid>
+      <description>&lt;p&gt;Pour rester informé de manière continue dans mon domaine j&amp;rsquo;ai mis en place un système d&amp;rsquo;écoute basé à la fois sur des sources expertes, des retours de terrain et une observation active des pratiques actuelles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Les LLM comme outil de veille technologique : opportunités et limites pour la promotion musicale</title>
+      <link>http://localhost:1313/posts/2026/llm-veille-technologique-promotion-musicale/</link>
+      <pubDate>Sat, 17 Jan 2026 15:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2026/llm-veille-technologique-promotion-musicale/</guid>
+      <description>&lt;p&gt;Dans le cadre de ma veille technologique et professionnelle, j&amp;rsquo;ai choisi d&amp;rsquo;utiliser des LLM comme ChatGPT ou Euria pour m&amp;rsquo;informer. Ces outils s&amp;rsquo;inscrivent dans un contexte où la quantité d&amp;rsquo;informations disponibles est très importante.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Groover : une plateforme pour connecter artistes et professionnels de l&#39;industrie musicale</title>
+      <link>http://localhost:1313/posts/2026/groover-plateforme-promotion-musicale/</link>
+      <pubDate>Sat, 17 Jan 2026 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2026/groover-plateforme-promotion-musicale/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;article &lt;em&gt;&amp;ldquo;Pourquoi Groover est vraiment la meilleure plateforme pour promouvoir votre musique&amp;rdquo;&lt;/em&gt;, publié fin 2024 sur le blog de Groover, présente une plateforme de promotion musicale pensée pour les artistes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La montée en puissance des artistes indépendants : une nouvelle ère pour la musique</title>
+      <link>http://localhost:1313/posts/2026/artistes-independants-nouvelle-ere/</link>
+      <pubDate>Sat, 17 Jan 2026 14:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2026/artistes-independants-nouvelle-ere/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;article &lt;em&gt;&amp;ldquo;The Rise of Independent Artists in 2025&amp;rdquo;&lt;/em&gt;, publié en 2025 sur &lt;strong&gt;Vents Magazine&lt;/strong&gt;, analyse l&amp;rsquo;évolution récente de l&amp;rsquo;industrie musicale et la montée en puissance des artistes indépendants. Il s&amp;rsquo;inscrit dans un contexte où les outils numériques ont profondément transformé les modes de création, de diffusion et de promotion musicale, réduisant la dépendance aux labels traditionnels. L&amp;rsquo;objectif de l&amp;rsquo;article est de montrer comment les artistes peuvent aujourd&amp;rsquo;hui construire une carrière viable en dehors des circuits classiques.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>L&#39;automatisation au service du booking d&#39;artistes : Gumloop AI révolutionne le travail des labels</title>
+      <link>http://localhost:1313/posts/2025/automatisation-booking-artistes-gumloop-ai/</link>
+      <pubDate>Wed, 15 Jan 2025 10:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/automatisation-booking-artistes-gumloop-ai/</guid>
+      <description>&lt;p&gt;La source de cet article est une vidéo publiée sur YouTube par la chaîne Underscore, une chaîne spécialisée dans la tech et les avancées numériques. La vidéo, publiée récemment, traite de l&amp;rsquo;accessibilité croissante des outils d&amp;rsquo;automatisation et présente en particulier Gumloop AI, une plateforme qui permet de créer des workflows automatisés sans nécessiter de compétences techniques avancées. L&amp;rsquo;objectif est de montrer comment ces outils transforment déjà la manière de travailler dans de nombreux domaines.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
