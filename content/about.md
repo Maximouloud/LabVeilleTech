@@ -25,6 +25,8 @@ Réseaux, communication, promotion, booking, contrat artistes, tournée, confide
 
 Ce domaine s'inscrit parfaitement dans mon **Ikigai** personnel :
 
+![Mon Ikigai](../assets/images/Ikigai-maxPlan%20de%20travail%201-100.jpg)
+
 - **Ce que j'aime** : La musique rock et la découverte de nouveaux artistes
 - **Ce en quoi je suis doué** : La communication, le réseautage, les outils technologiques et le graphisme
 - **Ce dont le monde a besoin** : Faire vivre la scène musicale locale et donner de la visibilité aux artistes émergents
