@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 date: 2026-01-17T16:30:00+01:00
-image: images/pexels-doubleseven-736355.jpg
+image: images/Ikigai-maxPlan%20de%20travail%201-100.jpg
 draft: false
 ---
 
